@@ -1,0 +1,3 @@
+codigo;indicador;objetivo;objetivo_codigo;meta;resultado;polaridade;unidade;area;analise
+DEMO01;Percentual de cobertura fictícia;Objetivo 1 - Qualificar APS;Objetivo 1;80;75;Maior - melhor;%;Área fictícia;Exemplo fictício para validação
+DEMO02;Tempo médio fictício;Objetivo 2 - Melhorar acesso;Objetivo 2;20;;Menor - melhor;minutos;Área fictícia;Ausência de resultado deve ser NULL
